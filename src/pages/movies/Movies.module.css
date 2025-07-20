@@ -1,0 +1,7 @@
+.searchForm {
+  display: flex;
+  margin-top: 20px;
+}
+.searchBtn {
+  margin-left: 10px;
+}
